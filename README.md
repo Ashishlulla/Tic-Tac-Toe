@@ -1,1 +1,1 @@
-A simple Tic Tac Toe Gamebuild using HTML,CSS,Javascript.
+A simple Tic Tac Toe Game built using HTML, CSS, and JavaScript.
